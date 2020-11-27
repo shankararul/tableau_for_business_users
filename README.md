@@ -1,6 +1,7 @@
 # Tableau for Business Users
 ## Table of Contents
-1 Introduction
+
+### 1 Introduction
     1.1 Why visualize data ?
     1.2 Who is this book for ?
     1.3 How is this book different ?
