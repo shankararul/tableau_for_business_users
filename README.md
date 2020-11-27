@@ -1,6 +1,21 @@
 # Tableau for Business Users
 
-The primary intended audience of this book are business analysts, Data Analysts and Financial Analysts or more broadly anyone who is hitting the limits of Excel with their data analytics needs. If your day to day revolves around staring at numbers all day long, then you’re definitely part of the target audience. There are no prerequisites to follow along the concepts in this book. We will work our way gradually from the very fundamentals of data all the way upto to building fancy dashboards & visualizations on gigabytes of data.
+*The primary intended audience of this book are business analysts, Data Analysts and Financial Analysts or more broadly anyone who is hitting the limits of Excel with their data analytics needs. If your day to day revolves around staring at numbers all day long, then you’re definitely part of the target audience. There are no prerequisites to follow along the concepts in this book. We will work our way gradually from the very fundamentals of data all the way upto to building fancy dashboards & visualizations on gigabytes of data.
+
+
+There are many books on the market which are excellent Tableau reader manuals. They do
+an excellent job presenting every menu tab, button, pane, shelf in Tableau. If you’re the kind of
+person who needs to know every single button and functionality tucked into Tableau then this
+might not be the right book for you.
+When you start to learn a new language and want to go about it in a systematic and methodical way, you’d start with the grammar. Understanding the foundational underpinnings of
+the languages, helps you get the basics right and then it’s a matter of stringing words together
+to make sentences. Lining up words within the rules defined by the grammar (or not) in infinite
+possible ways to write Shakespearean poetry or tabloid articles or have conversations is a logical
+next step.
+This book intends to approach the subject of mastering Tableau in a similar fashion. We’ll
+try to distil the very core essence of tableau in a few concepts and then it’s just a matter of combining them in infinite possible ways to build the visualizations or communicate the data story
+
+
 
 ## Table of Contents
 
