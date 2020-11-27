@@ -1,6 +1,6 @@
 # Tableau for Business Users
 
-*The primary intended audience of this book are business analysts, Data Analysts and Financial Analysts or more broadly anyone who is hitting the limits of Excel with their data analytics needs. If your day to day revolves around staring at numbers all day long, then you’re definitely part of the target audience. There are no prerequisites to follow along the concepts in this book. We will work our way gradually from the very fundamentals of data all the way upto to building fancy dashboards & visualizations on gigabytes of data.
+* The primary intended audience of this book are business analysts, Data Analysts and Financial Analysts or more broadly anyone who is hitting the limits of Excel with their data analytics needs. If your day to day revolves around staring at numbers all day long, then you’re definitely part of the target audience. There are no prerequisites to follow along the concepts in this book. We will work our way gradually from the very fundamentals of data all the way upto to building fancy dashboards & visualizations on gigabytes of data.
 
 
 There are many books on the market which are excellent Tableau reader manuals. They do
