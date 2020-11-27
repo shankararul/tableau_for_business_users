@@ -2,10 +2,11 @@
 ## Table of Contents
 
 1 Introduction
-1.1 Why visualize data ? 
-1.2 Who is this book for ? 
-1.3 How is this book different ? 
-1.4 Acknowledgements 
+  1 Why visualize data ? 
+  2 Who is this book for ? 
+  3 How is this book different ? 
+  4 Acknowledgements
+  
 2 Installation & Setup
 2.1 Installation of Tableau
 2.2 Data Sources required for the exercises in the book . . . . . . . . . . 9
