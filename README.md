@@ -7,17 +7,17 @@
     1.3 How is this book different ?
     1.4 Acknowledgements
 
-2 Installation & Setup
+### 2 Installation & Setup
     2.1 Installation of Tableau
     2.2 Data Sources required for the exercises in the book
 
-3 Fundamentals of Data
+### 3 Fundamentals of Data
     3.1 Data types
     3.2 Data Sources
     3.3 Data Preparation
     3.4 Converting "Business Questions" to the language of Data
 
-4 The Crux of Tableau
+### 4 The Crux of Tableau
     4.1 The 4 building pillars
         4.1.1 Dimensions, Measures & Aggregations
         4.1.2 Viz Pane - Columns & Rows Shelf
@@ -32,7 +32,7 @@
     4.3 Show Me
     4.4 Sheets & Dashboards
 
-5 Calculations
+### 5 Calculations
     5.1 Grouping values
     5.2 Calculated Fields.
     5.3 Row level, Aggregation & Dis-aggregation
@@ -42,7 +42,7 @@
     5.5 Importance of Cardinality - A practical example
     5.6 Data Modeling
 
-6 Tables & Table Calculations
+### 6 Tables & Table Calculations
     6.1 Show me or from scratch ?
     6.2 Table totals
     6.3 Table calculations.
@@ -56,7 +56,7 @@
         6.4.2 Rank Sort
         6.4.3 Blending Sort
 
-7 Advanced Tips
+### 7 Advanced Tips
     7.1 Dynamic Inputs - Parameters
     7.2 Top 10/20/50 Filters
     7.3 Dual Axis
@@ -71,7 +71,7 @@
         7.6.3 Forecast & Trend lines
     7.7 Order of Operations
 
-8 Dashboards
+### 8 Dashboards
     8.1 Less is more
     8.2 Dashboards: A view from 10000ft
     8.3 Fit & Layout
