@@ -11,10 +11,10 @@
 
 ## Tableau for Business Users: A hands-on approach includes:
 
-#### Fundamentals of Data
-#### The Crux of Tableau
-#### Calculations & Advanced tips
-#### Dashboards
+##### > Fundamentals of Data
+##### > The Crux of Tableau
+##### > Calculations & Advanced tips
+##### > Dashboards
 
 
 ### 1 Introduction
