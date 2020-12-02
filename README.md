@@ -1,14 +1,20 @@
 # Tableau for Business Users
 
-> The primary intended audience of this book are business analysts, Data Analysts and Financial Analysts or more broadly anyone who is hitting the limits of Excel with their data analytics needs. If your day to day revolves around staring at numbers all day long, then you’re definitely part of the target audience. There are no prerequisites to follow along the concepts in this book. We will work our way gradually from the very fundamentals of data all the way upto to building fancy dashboards & visualizations on gigabytes of data.
+> The primary intended audience of this book are Business analysts, Data Analysts and Financial Analysts or more broadly anyone who is hitting the limits of Excel with their data analytics needs. If your day to day revolves around staring at numbers all day long, then you’re definitely part of the target audience. There are no prerequisites to follow along the concepts in this book. We will work our way gradually from the very fundamentals of data all the way upto to building fancy dashboards & visualizations on gigabytes of data.
 
 
-> There are many books on the market which are excellent Tableau reader manuals. They do an excellent job presenting every menu tab, button, pane, shelf in Tableau. If you’re the kind of person who needs to know every single button and functionality tucked into Tableau then this might not be the right book for you. When you start to learn a new language and want to go about it in a systematic and methodical way, you’d start with the grammar. Understanding the foundational underpinnings of the languages, helps you get the basics right and then it’s a matter of stringing words together to make sentences. Lining up words within the rules defined by the grammar (or not) in infinite possible ways to write Shakespearean poetry or tabloid articles or have conversations is a logical next step. This book intends to approach the subject of mastering Tableau in a similar fashion. We’ll try to distil the very core essence of tableau in a few concepts and then it’s just a matter of combining them in infinite possible ways to build the visualizations.
+> There are many books on the market which are excellent Tableau reader manuals. They do an excellent job presenting every menu tab, button, pane, shelf in Tableau. If you’re the kind of person who needs to know every single button and functionality tucked into Tableau then this might not be the right book for you. When you start to learn a new language and want to go about it in a systematic and methodical way, you’d start with the grammar. Understanding the foundational underpinnings of the languages, helps you get the basics right and then it’s a matter of stringing words together to make sentences. This book intends to approach the subject of mastering Tableau in a similar fashion. We’ll try to distill the very core essence of tableau in a few concepts and then it’s just a matter of combining them in infinite possible ways to build the visualizations.
 
 ## About the Author
 
-> There are many books on the market which are excellent Tableau reader manuals. They do an excellent job presenting every menu tab, button, pane, shelf in Tableau. If you’re the kind of person who needs to know every single button and functionality tucked into Tableau then this might not be the right book for you. When you start to learn a new language and want to go about it in a systematic and methodical way, you’d start with the grammar. Understanding the foundational underpinnings of the languages, helps you get the basics right and then it’s a matter of stringing words together to make sentences. Lining up words within the rules defined by the grammar (or not) in infinite possible ways to write Shakespearean poetry or tabloid articles or have conversations is a logical next step. This book intends to approach the subject of mastering Tableau in a similar fashion. We’ll try to distil the very core essence of tableau in a few concepts and then it’s just a matter of combining them in infinite possible ways to build the visualizations.
+> Shankar Arul holds a Masters in Industrial Engineering from Virginia Tech, USA and an MBA in Finance from ESSEC, France. He has more than 15 years of hands-on experience in the field of Data Visualization and Data Science. Having faced the frustrations of Business users first-hand in companies such as BNP, Apple, Groupon and Kering, he decided to enable the Business users with the power of Data Visualization and Tableau through this book.
 
+## Tableau for Business Users: A hands-on approach includes:
+
+### Fundamentals of Data
+### The Crux of Tableau
+### Calculations & Advanced tips
+### Dashboards
 
 
 ### 1 Introduction
