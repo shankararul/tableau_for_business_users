@@ -7,7 +7,7 @@
 
 ## About the Author
 
-> Shankar Arul holds a Masters in Industrial Engineering from Virginia Tech, USA and an MBA in Finance from ESSEC, France. He has more than 15 years of hands-on experience in the field of Data Visualization and Data Science. Having faced the frustrations of Business users first-hand in companies such as BNP, Apple, Groupon and Kering, he decided to enable the Business users with the power of Data Visualization and Tableau through this book.
+> Shankar Arul holds a Masters in Industrial Engineering from Virginia Tech, USA and an MBA in Finance from ESSEC, France. He has more than 15 years of hands-on experience in the field of Data Visualization and Data Science. Having faced the frustrations of Business users in data-driven decision making, in companies such as BNP, Apple, Groupon and Kering, he decided to enable the Business users with the power of Data Visualization and Tableau through this book.
 
 ## Tableau for Business Users: A hands-on approach includes:
 
